@@ -13,5 +13,5 @@ Analyze sales data to uncover trends, identify top-performing regions/products, 
 - The "Technology" category contributes the most profit (50.79%), followed by "Office Supplies" (42.77%)
 - The West and East regions lead in sales, while the Central and South regions need improvement.
 
-## Dashboard
+## Power BI - Dashboard
 ![Dashboard Screenshot](dashboard_screenshot.png)
