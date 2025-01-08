@@ -5,7 +5,7 @@ Analyze sales data to uncover trends, identify top-performing regions/products, 
 
 ## Tools & Techniques
 - **Python**: Pandas, Matplotlib, Seaborn for data cleaning and visualization.
-- **Power BI/Tableau**: Dashboard creation.
+- **Power BI**: Dashboard creation.
 - **Dataset**: [Superstore Dataset]([link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)).
 
 ## Key Insights
